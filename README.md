@@ -34,7 +34,6 @@ If you want to denoise an image sequence using the pretrained model you can exec
 
 ```
 python test_hfastdvdnet.py --model_file logs/net.pth --max_num_fr_per_seq 100 --test_path data/noisy_data --classic_denoised_path data/pre-denoised_data --target_path data/original_data --save_path data/denoised_data
-
 ```
 
 
