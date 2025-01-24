@@ -4,7 +4,7 @@
 A hybrid video denoising approach, where a lightweight neural network uses, as additional input, 
 a pre-denoised sequence obtained with a traditional model-based denoising algorithm (SPTWO).
 
-Authors: A. Buades, P. Céspedes, J.L. Lisani, M. Sánchez
+Authors: A. Buades, P. Céspedes, J.L. Lisani, M. Sánchez-Beeckman
  
 Paper submitted at ICIP2025
 
